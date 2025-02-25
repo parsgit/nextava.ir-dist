@@ -1,4 +1,4 @@
-import{_ as p,c as n,a as s,z as a,w as l,C as u,f as g,F as b,l as h,o as i,n as y,t as d}from"./index-BqBDIYu4.js";import{u as f}from"./wavesurfer.esm-C5Vxh-qJ.js";/**!
+import{_ as p,c as n,a as s,z as a,w as l,C as u,f as g,F as b,l as h,o as i,n as y,t as d}from"./index-16Iabyn8.js";import{u as f}from"./wavesurfer.esm-C5Vxh-qJ.js";/**!
  * audioMotion-analyzer
  * High-resolution real-time graphic audio spectrum analyzer JS module
  *
